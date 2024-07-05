@@ -1,5 +1,5 @@
-💡 Aplicativo Gerador de Conselhos 💡
-Bem-vindo ao projeto "Aplicativo Gerador de Conselhos"!
+## 💡 Aplicativo Gerador de Conselhos 💡
+## Bem-vindo ao projeto "Aplicativo Gerador de Conselhos"!
 
 Descrição do Projeto
 - Objetivo: Criar um aplicativo que forneça conselhos aleatórios usando a API Advice Slip. 💬🧠
